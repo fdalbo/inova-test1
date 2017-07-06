@@ -1,0 +1,22 @@
+<contacts>
+      <contact id="1">
+            <name>David</name>
+            <lastName>FRALEY</lastName>
+            <unexpected/>
+            <contacts>
+                  <contact id="2">
+                        <name>Mary</name>
+                        <lastName>JANE</lastName>
+                        <contacts />
+                  </contact>
+            </contacts>
+      </contact>
+      <contact>
+            <name>John</name>
+            <lastName>DOE</lastName>
+      </contact>
+      <contact id="5">
+            <name>John</name>
+            <lastName></lastName>
+      </contact>
+</contacts>

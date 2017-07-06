@@ -3,6 +3,9 @@ package utils;
 public class CLogger {
 	public String name;
 	
+	public CLogger(){
+		this(null);
+	}
 	public CLogger(String name){
 		this.name = name == null ? "": name;
 	}
